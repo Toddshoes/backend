@@ -52,6 +52,7 @@ const allowedOrigins = [
   'ooowap-fronend.vercel.app',
   'www.ooowap-frontend.vercel.app',
   'https://ooowap-backend.onrender.com',
+  'https://ooowap-frontend-new.onrender.com',
 ]
 
 const corsOptions = {
